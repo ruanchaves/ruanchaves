@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Ruan's github stats](https://github-readme-stats.vercel.app/api?username=ruanchaves&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruan's github stats](https://github-readme-stats.vercel.app/api?username=ruanchaves&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
