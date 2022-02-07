@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruan Chaves Rodrigues</h1>
-<h3 align="center">A Software Engineer and MSc Student living in Spain.</h3>
 
-- 📄 Visit my personal website: [https://ruanchaves.github.io/](https://ruanchaves.github.io/)
+- 📄 Visit [my personal website](https://ruanchaves.github.io/).
 
 - ✨ I’m currently working on [Rubrix](https://github.com/recognai/rubrix).
 
