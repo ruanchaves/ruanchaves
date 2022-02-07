@@ -2,7 +2,7 @@
 
 - ✨ I’m currently working on [Rubrix](https://github.com/recognai/rubrix).
 
-- ✂️ I'm the creator of [hashformers](https://github.com/ruanchaves/hashformers), a framework for state-of-the-art hashtag segmentation.
+- ✂️ I'm the creator of [hashformers](https://github.com/ruanchaves/hashformers), a framework for hashtag segmentation.
 
 - 📄 Visit [my personal website](https://ruanchaves.github.io/).
 
