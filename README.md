@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruan Chaves Rodrigues</h1>
+<h1 align="center">Hi 👋, I'm Ruan.</h1>
 
 - ✨ I’m currently working on [Rubrix](https://github.com/recognai/rubrix).
 
