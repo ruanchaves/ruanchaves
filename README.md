@@ -6,8 +6,6 @@
 
 - ✂️ I'm the creator of [hashformers](https://github.com/ruanchaves/hashformers), a framework for state-of-the-art hashtag segmentation.
 
-- 📝 I write articles on [Medium](https://ruanchaves.medium.com/).
-
 - 📫 Email: **ruanchaves93@gmail.com**
 
 <h3 align="center">Follow me: </h3>
