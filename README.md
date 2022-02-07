@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ruan Chaves Rodrigues</h1>
 
-- 📄 Visit [my personal website](https://ruanchaves.github.io/).
-
 - ✨ I’m currently working on [Rubrix](https://github.com/recognai/rubrix).
 
 - ✂️ I'm the creator of [hashformers](https://github.com/ruanchaves/hashformers), a framework for state-of-the-art hashtag segmentation.
+
+- 📄 Visit [my personal website](https://ruanchaves.github.io/).
 
 - 📫 Email: **ruanchaves93@gmail.com**
 
