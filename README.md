@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruan.</h1>
 
-- ✨ I’m currently working on [Rubrix](https://github.com/recognai/rubrix).
-
 - ✂️ I'm the creator of [hashformers](https://github.com/ruanchaves/hashformers), a framework for hashtag segmentation.
 
 - 📄 Visit [my personal website](https://ruanchaves.github.io/).
