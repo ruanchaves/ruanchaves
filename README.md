@@ -1,46 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ruan.</h1>
+<h1 align="center">👋 Hi, I'm Ruan</h1>
+<h3 align="center">Machine Learning Engineer</h3>
 
-Machine Learning Engineer presently pursuing a Master's degree in Language and Communication Technologies. Expertise in deep learning, natural language processing, and software development.
+<p align="center">
+  Pursuing a Master's degree in Language and Communication Technologies. Expertise in deep learning, natural language processing, and software development.
+</p>
 
+---
 
-**Projects**:
-- 🔗 [`ruanchaves/hashformers`](https://github.com/ruanchaves/hashformers):
-  - State-of-the-art framework for hashtag segmentation.
+## 🚀 Projects
 
-- 🔗 [`ruanchaves/napolab`](https://github.com/ruanchaves/napolab):
-  - the Natural Portuguese Language Benchmark.
+- **[hashformers](https://github.com/ruanchaves/hashformers)**: State-of-the-art framework for hashtag segmentation.
+- **[napolab](https://github.com/ruanchaves/napolab)**: The Natural Portuguese Language Benchmark.
 
+---
 
-**Contributions**:
+## 🌟 Contributions
 
-- 🔗 [`argilla-io/argilla`](https://github.com/argilla-io/argilla/issues?q=author%3Aruanchaves+):
-  - Fixed bugs and shipped features related to semi-supervised learning (SSL) as part of my internship at Argilla.
-  
-- 🔗 [`huggingface/transformers`](https://github.com/huggingface/transformers/pull/10823):
-   - Modified the Trainer class to handle simultaneous execution of Ray Tune and Weights & Biases.
-     
-- 🔗 [`nathanshartmann/portuguese_word_embeddings`](https://github.com/nathanshartmann/portuguese_word_embeddings/pull/11):
-  - Fixed a severe bug on the evaluation procedure.
-  - Documented the bug fix in the research paper ["Portuguese language models and word embeddings: evaluating on semantic similarity tasks"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC).
-    
-- 🔗 [`facebookresearch/BLINK`](https://github.com/facebookresearch/BLINK/pull/25):
-  - Bug fix in the parameters of the script for running the BLINK benchmark.
-    
-- 🔗 [`awslabs/mlm-scoring`](https://github.com/awslabs/mlm-scoring/pull/12):
-  - Fixed an issue with the installation instructions for the mlm-scoring library.
-  
-Visit [my personal website](https://ruanchaves.github.io/).
+- **[argilla-io/argilla](https://github.com/argilla-io/argilla/issues?q=author%3Aruanchaves+)**:
+  - Fixed bugs and shipped features related to semi-supervised learning (SSL) during my internship at Argilla.
+- **[huggingface/transformers](https://github.com/huggingface/transformers/pull/10823)**:
+  - Modified the Trainer class for simultaneous Ray Tune and Weights & Biases execution.
+- **[portuguese_word_embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings/pull/11)**:
+  - Fixed a severe bug in the evaluation procedure.
+  - Documented the bug fix in the research paper ["Portuguese language models..."](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC).
+- **[facebookresearch/BLINK](https://github.com/facebookresearch/BLINK/pull/25)**:
+  - Fixed a parameter bug in the script for the BLINK benchmark.
+- **[awslabs/mlm-scoring](https://github.com/awslabs/mlm-scoring/pull/12)**:
+  - Addressed an installation instruction issue for the mlm-scoring library.
 
+---
 
-**Papers**:
+## 📖 Papers
 
-- 🔗 [`ruanchaves/elmo`](https://github.com/ruanchaves/elmo):
-  - Code for ["Portuguese language models and word embeddings: evaluating on semantic similarity tasks"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC) .
-  
-- 🔗 [`ruanchaves/assin`](https://github.com/ruanchaves/assin):
-  - Code for [Multilingual Transformer Ensembles for Portuguese Natural Language Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC).
-  
-- 🔗 [`ruanchaves/BERT-WS`](https://github.com/ruanchaves/BERT-WS):
-  - Code for [Domain adaptation of transformers for english word segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
+- **[elmo](https://github.com/ruanchaves/elmo)**: Code for ["Portuguese language models..."](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC).
+- **[assin](https://github.com/ruanchaves/assin)**: Code for [Multilingual Transformer Ensembles...](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC).
+- **[BERT-WS](https://github.com/ruanchaves/BERT-WS)**: Code for [Domain adaptation of transformers...](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
 
-📫 Email: **ruanchaves93@gmail.com**
+---
+
+🌐 [Personal Website](https://ruanchaves.github.io/)
+
+📧 **Email**: ruanchaves93@gmail.com
