@@ -3,8 +3,8 @@
 Machine Learning Engineer presently pursuing a Master's degree in Language and Communication Technologies. Expertise in deep learning, natural language processing, and software development.
 
 **Projects**:
-- 🔗 [hashformers](https://github.com/ruanchaves/hashformers) - a framework for hashtag segmentation.
-- 🔗 [napolab](https://github.com/ruanchaves/napolab) - the Natural Portuguese Language Benchmark.
+- 🔗 [`ruanchaves/hashformers`](https://github.com/ruanchaves/hashformers) - a framework for hashtag segmentation.
+- 🔗 [`ruanchaves/napolab`](https://github.com/ruanchaves/napolab) - the Natural Portuguese Language Benchmark.
 
 **Contributions**:
 
@@ -21,5 +21,11 @@ Machine Learning Engineer presently pursuing a Master's degree in Language and C
   - Fixed an issue with the installation instructions for the mlm-scoring library.
   
 Visit [my personal website](https://ruanchaves.github.io/).
+
+**Papers**:
+
+* [`ruanchaves/elmo`](): Code for ["Portuguese language models and word embeddings: evaluating on semantic similarity tasks"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC) .
+* [`ruanchaves/assin`](https://github.com/ruanchaves/assin): Code for [Multilingual Transformer Ensembles for Portuguese Natural Language Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC).
+* [`ruanchaves/BERT-WS`](https://github.com/ruanchaves/BERT-WS):Code for [Domain adaptation of transformers for english word segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
 
 📫 Email: **ruanchaves93@gmail.com**
