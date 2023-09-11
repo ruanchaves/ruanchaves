@@ -6,6 +6,7 @@ Machine Learning Engineer presently pursuing a Master's degree in Language and C
 - 🔗 [hashformers](https://github.com/ruanchaves/hashformers) - a framework for hashtag segmentation.
 - 🔗 [napolab](https://github.com/ruanchaves/napolab) - the Natural Portuguese Language Benchmark.
 
-- 📄 Visit [my personal website](https://ruanchaves.github.io/).
 
-- 📫 Email: **ruanchaves93@gmail.com**
+Visit [my personal website](https://ruanchaves.github.io/).
+
+📫 Email: **ruanchaves93@gmail.com**
