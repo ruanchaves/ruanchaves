@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
-  Pursuing a Master's degree in Language and Communication Technologies. Expertise in deep learning, natural language processing, and software development.
+  🌐 [Personal Website](https://ruanchaves.github.io/)
 </p>
 
 ---
@@ -37,7 +37,5 @@
 - **[BERT-WS](https://github.com/ruanchaves/BERT-WS)**: Code for ["Domain adaptation of transformers for english word segmentation"](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
 
 ---
-
-🌐 [Personal Website](https://ruanchaves.github.io/)
 
 📧 **Email**: ruanchaves93@gmail.com
