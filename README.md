@@ -2,8 +2,11 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <div align="center">
-  🌐 [Personal Website](https://ruanchaves.github.io/)
+
+<a href="https://ruanchaves.github.io/">🌐 Personal Website</a>
+
 </div>
+
 
 ---
 
