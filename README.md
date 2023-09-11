@@ -23,7 +23,7 @@
   - Fixed bugs and shipped features related to semi-supervised learning (SSL) during my internship at Argilla.
 - **[huggingface/transformers](https://github.com/huggingface/transformers/pull/10823)**:
   - Modified the Trainer class for simultaneous Ray Tune and Weights & Biases execution.
-- **[portuguese_word_embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings/pull/11)**:
+- **[nathanshartmann/portuguese_word_embeddings](https://github.com/nathanshartmann/portuguese_word_embeddings/pull/11)**:
   - Fixed a severe bug in the evaluation procedure.
   - Documented the bug fix in the research paper ["Portuguese language models..."](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC).
 - **[facebookresearch/BLINK](https://github.com/facebookresearch/BLINK/pull/25)**:
