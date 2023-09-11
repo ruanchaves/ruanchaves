@@ -34,10 +34,13 @@ Visit [my personal website](https://ruanchaves.github.io/).
 
 **Papers**:
 
-* [`ruanchaves/elmo`](): Code for ["Portuguese language models and word embeddings: evaluating on semantic similarity tasks"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC) .
+- 🔗 [`ruanchaves/elmo`](https://github.com/ruanchaves/elmo):
+  - Code for ["Portuguese language models and word embeddings: evaluating on semantic similarity tasks"](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:u-x6o8ySG0sC) .
   
-* [`ruanchaves/assin`](https://github.com/ruanchaves/assin): Code for [Multilingual Transformer Ensembles for Portuguese Natural Language Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC).
+- 🔗 [`ruanchaves/assin`](https://github.com/ruanchaves/assin):
+  - Code for [Multilingual Transformer Ensembles for Portuguese Natural Language Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:qjMakFHDy7sC).
   
-* [`ruanchaves/BERT-WS`](https://github.com/ruanchaves/BERT-WS):Code for [Domain adaptation of transformers for english word segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
+- 🔗 [`ruanchaves/BERT-WS`](https://github.com/ruanchaves/BERT-WS):
+  - Code for [Domain adaptation of transformers for english word segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=3JDK8KEAAAAJ&citation_for_view=3JDK8KEAAAAJ:9yKSN-GCB0IC).
 
 📫 Email: **ruanchaves93@gmail.com**
