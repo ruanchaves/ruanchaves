@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Ruan</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-<p align="center">
+<div align="center">
   🌐 [Personal Website](https://ruanchaves.github.io/)
-</p>
+</div>
 
 ---
 
