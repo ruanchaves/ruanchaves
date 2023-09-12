@@ -19,7 +19,7 @@
 
 ## 🌟 Contributions
 
-_Note: Click on the links to view my pull requests._
+_Click on the links to view my pull requests._
 
 - **[argilla-io/argilla](https://github.com/argilla-io/argilla/issues?q=author%3Aruanchaves+)**:
   - Fixed bugs and shipped features related to semi-supervised learning (SSL) during my internship at Argilla.
