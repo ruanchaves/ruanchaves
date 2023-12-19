@@ -37,7 +37,7 @@ _Click on the links to view my pull requests._
 
 ## 📖 Papers With Code
 
-- **[neuralmind-ai/coliee](https://github.com/neuralmind-ai/coliee)**
+- **[neuralmind-ai/coliee](https://github.com/neuralmind-ai/coliee)**:
   - Code for ["To Tune or Not To Tune? Zero-shot Models for Legal Case Entailment"](https://arxiv.org/abs/2202.03120)
   - Code for ["Yes, BM25 is a Strong Baseline for Legal Case Retrieval"](https://arxiv.org/abs/2105.05686)
 - **[ruanchaves/elmo](https://github.com/ruanchaves/elmo)**:
