@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ruan</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Senior AI Engineer | Generative AI | RAG | LLMs | NLP | Python</h3>
 
 <div align="center">
 
