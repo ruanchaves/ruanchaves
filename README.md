@@ -15,9 +15,9 @@
 - **[ruanchaves/hashformers](https://github.com/ruanchaves/hashformers)**: State-of-the-art framework for hashtag segmentation.
 - **[ruanchaves/napolab](https://github.com/ruanchaves/napolab)**: The Natural Portuguese Language Benchmark.
 
-![Napolab Leaderboard Interface](README/benchmark.PNG)
+![Napolab Leaderboard Interface](benchmark.PNG)
 
-![Model Performance Analysis](README/benchmark_radio.png)
+![Model Performance Analysis](benchmark_radio.png)
 
 ---
 
