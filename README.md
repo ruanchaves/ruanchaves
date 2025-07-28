@@ -16,6 +16,8 @@
 
 - **[ruanchaves/napolab](https://github.com/ruanchaves/napolab)**: The Natural Portuguese Language Benchmark.
     - Browse the **[Napolab Leaderboard](https://huggingface.co/spaces/ruanchaves/napolab)** and stay up to date with the latest advancements in Portuguese language models.
+    - Medium Article: [The Hidden Truth About LLM Performance: Why Your Benchmark Results Might Be Misleading](https://ruanchaves.medium.com/the-hidden-truth-about-llm-performance-why-your-benchmark-results-might-be-misleading-afd24f40a46c)
+    - Master Thesis: [Lessons learned from the evaluation of Portuguese language models](https://www.um.edu.mt/library/oar/handle/123456789/120557)
 
 <div align="center">
   <img src="benchmark.PNG" width="45%" alt="Napolab Leaderboard Interface">
