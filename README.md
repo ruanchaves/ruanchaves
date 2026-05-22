@@ -17,12 +17,6 @@ I build AI systems for retrieval, evaluation, automation, and applied NLP.
 
 ---
 
-## 🚀 Portfolio Projects
-
-_Coming soon: selected production-style GenAI, RAG, evaluation, and automation projects._
-
----
-
 ## 📚 Research & Academic Projects
 
 ### 2023 — [Napolab](https://github.com/ruanchaves/napolab)
