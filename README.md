@@ -29,7 +29,7 @@ Some areas I especially enjoy:
 * Building **RAG systems** over complex or messy business data
 * Designing **evaluation loops** for LLM and retrieval systems
 * Creating **agentic workflows** with LangChain / LangGraph-style architectures
-* Turning NLP research ideas into usable products
+* Turning research ideas into usable products
 * Working across product, engineering, and business constraints
 
 ---
