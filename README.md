@@ -38,8 +38,6 @@ Some areas I especially enjoy:
 
 💼 Built GenAI and RAG systems for companies in banking, fintech, and enterprise document automation.
 
-🧠 Worked with LLM systems involving **LangChain, LangGraph, Azure OpenAI, Azure AI Foundry, Vertex AI, BigQuery, Weaviate, Docker, Python, and React**.
-
 📉 Helped reduce AI system costs and improve retrieval/evaluation quality in production-oriented environments.
 
 📚 Creator of [Napolab](https://github.com/ruanchaves/napolab), a Portuguese NLP / LLM evaluation benchmark and dataset collection.
@@ -159,13 +157,11 @@ I occasionally write about LLM evaluation, NLP benchmarks, and language model be
 
 I'm especially interested in roles involving:
 
-* Senior AI Engineering
+* AI Engineering
 * LLM applications
 * RAG systems
 * Agentic AI
 * LLM evaluation
-* Applied NLP
-* AI product engineering
 
 You can reach me here:
 
