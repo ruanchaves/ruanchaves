@@ -1,7 +1,7 @@
 <h1 align="center">Hello, folks! I'm Ruan 👋</h1>
 
 <h3 align="center">
-Senior AI Engineer focused on LLMs, RAG, Agents, Evaluation, and Applied NLP
+AI Engineer focused on LLMs, RAG, Agents, Evaluation, and Applied NLP
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ I build practical AI systems that connect language models with real products, me
 
 ## 😀 About me
 
-I'm a Brazilian **Senior AI Engineer** working mainly with **LLMs, RAG systems, agentic workflows, evaluation, and applied NLP**.
+I'm a Brazilian **AI Engineer** working mainly with **LLMs, RAG systems, agentic workflows, evaluation, and applied NLP**.
 
 My background is a mix of production AI engineering and NLP research. I have worked on GenAI systems for banking, fintech, document automation, retrieval, and multilingual language model evaluation.
 
@@ -42,11 +42,9 @@ Some areas I especially enjoy:
 
 📚 Creator of [Napolab](https://github.com/ruanchaves/napolab), a Portuguese NLP / LLM evaluation benchmark and dataset collection.
 
-🔎 Creator of [hashformers](https://github.com/ruanchaves/hashformers), research code for multilingual hashtag and word segmentation recognized at **LREC 2022**.
+🔎 Creator of [hashformers](https://github.com/ruanchaves/hashformers), a library for multilingual hashtag and word segmentation recognized at **LREC 2022**.
 
 🤗 Former contributor to [Argilla](https://github.com/argilla-io/argilla), later acquired by Hugging Face.
-
-🏆 Winner of international NLP competitions including **COLIEE 2021**, **ASSIN 2**, and **ABSAPT**.
 
 ---
 
